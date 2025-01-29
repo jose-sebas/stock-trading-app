@@ -1,4 +1,12 @@
-# React + TypeScript + Vite
+# React + TypeScript + Vite Project
+
+This small application was made to simulate a few actions of a stock's trading app, where the user can update the stock's price in real time and display the new price in the chart. Also the user can buy or sell its shares.
+
+Run these commands to locally 
+
+- Install `npm install`
+- Run development server `npm run dev`
+- Go to the local link generated to take a look at the app
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
